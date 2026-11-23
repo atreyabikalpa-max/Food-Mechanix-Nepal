@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-11-23T17:00:55.182Z",
+  "lastSuccessfulCheck": "2026-11-23T17:00:55.182Z",
+  "state": "ok",
+  "publishedCount": 35,
+  "added": 33,
+  "pending": 10,
+  "sources": [
+    {
+      "name": "The Kathmandu Post",
+      "state": "ok",
+      "items": 40
+    },
+    {
+      "name": "FoodNavigator",
+      "state": "ok",
+      "items": 20
+    },
+    {
+      "name": "OnlineKhabar English",
+      "state": "ok",
+      "items": 20
+    },
+    {
+      "name": "Food Safety News",
+      "state": "ok",
+      "items": 15
+    },
+    {
+      "name": "FDA Food Recalls",
+      "state": "ok",
+      "items": 20
+    }
+  ]
+}

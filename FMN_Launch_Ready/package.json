@@ -1,0 +1,1 @@
+{"name":"food-mechanix-nepal","version":"2.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"test":"node --test scripts/*.test.mjs","update":"node scripts/update-news.mjs","build":"node scripts/build.mjs","preview":"node scripts/serve.mjs"}}
